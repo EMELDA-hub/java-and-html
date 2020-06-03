@@ -1,0 +1,23 @@
+
+
+<html>
+<head<
+<tittle></title>
+<body bgcolor="purple">
+  <h1><font size ="5" face=
+    "impact">test on area of triangle</h1></font><br>
+  <p>
+  base<input type "test" size="5" id= "base"/><br>
+  height<input type  "test" size="4"id="height"/><br>
+  hypotenuse<input type "test" size="4" id="hypotenuse"/><br>
+
+<buttom type "buttom"oneclick"triangle area()
+">area</button>
+</p>
+<p>
+  <id="outputut" >area= ???/<
+
+</body>
+
+
+    </html>
